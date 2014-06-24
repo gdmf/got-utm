@@ -14,5 +14,5 @@ To do:
 
 ### Screenshot:
 
-![localhost](/master/screenshots/gotutm.png?raw=true)
+![localhost](/screenshots/gotutm.png?raw=true)
 
