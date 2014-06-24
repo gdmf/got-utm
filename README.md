@@ -1,7 +1,9 @@
 got-utm
 =======
 
-Tired of figuring out what UTM zone I'm in, so I wrote this. Work in progress.
+Tired of figuring out what UTM zone I'm in, so I wrote this. Work in progress. 
+
+[Demo](http://gdmf.me/maps/gotutm/)
 
 To do:
 
