@@ -14,5 +14,5 @@ To do:
 
 ### Screenshot:
 
-![localhost](https://github.com/gdmf/got-utm/blob/master/screenshots/gotutm.png)
+![localhost](/master/screenshots/gotutm.png?raw=true)
 
